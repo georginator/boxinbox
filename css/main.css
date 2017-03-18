@@ -1,0 +1,36 @@
+
+
+
+.outerbox {
+	height: 500px;
+	width: 1000px;
+	background-color: tomato;
+}
+
+.innerbox {
+	background-color: black;
+    color: yellow;
+	height: 200px;
+	width: 400px;
+	display: inline-block;
+}
+
+.box {
+	background-color: black;
+    color: yellow;
+	height: 200px;
+	width: 400px;
+	display: inline-block;
+	    float: right;
+}
+
+
+.para {
+	background-color: black;
+	height: 200px;
+	width: 400px;
+	text-align: center;
+	color: yellow;
+	margin: auto;
+	margin-top: 50px;
+}
